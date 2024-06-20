@@ -12,5 +12,7 @@ Neural Style Transfer (NST) is an algorithm that blends the content of one image
 
 
 # Video Description:
-
+https://drive.google.com/file/d/1IiJwGgDfaQEKlWScNCEno4nPLO69REEy/view?usp=sharing
+# How to run:
+Just open the colab link and upload the two photos given in the repository. You can add your own photos as well just keep the main photo name "website" and the style photo name as "style". The format should be jpg. Hope you like the project.
 
